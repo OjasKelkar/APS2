@@ -1,5 +1,0 @@
-[ 2024-07-26 11:31:22,666 ] 28 dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 1
-[ 2024-07-26 11:31:26,990 ] 27 root - INFO - Starting data ingestion
-[ 2024-07-26 11:31:26,990 ] 26 root - INFO - Exporting data from mongodb to feature store
-[ 2024-07-26 11:31:26,990 ] 18 root - INFO - Retrieved MongoDB URL: None
-[ 2024-07-26 11:31:26,990 ] 29 root - ERROR - Error initializing MongoDB client: argument of type 'NoneType' is not iterable

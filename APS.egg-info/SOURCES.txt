@@ -30,6 +30,9 @@ sensor2/data_access/sensor_data.py
 sensor2/entity/__init__.py
 sensor2/entity/artifact_entity.py
 sensor2/entity/config_entity.py
+sensor2/ml/__init__.py
+sensor2/ml/model/__init__.py
+sensor2/ml/model/estimator.py
 sensor2/pipeline/__init__.py
 sensor2/pipeline/training_pipeline.py
 sensor2/utills/__init__.py

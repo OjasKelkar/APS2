@@ -1,3 +1,0 @@
-[ 2024-07-26 14:27:07,760 ] 27 root - INFO - Starting data ingestion
-[ 2024-07-26 14:27:07,796 ] 32 root - INFO - Exporting data from mongodb to feature store
-[ 2024-07-26 14:27:07,796 ] 18 root - INFO - Retrieved MongoDB URL: mongodb+srv://kelkarork0308:jairamjiki@cluster0.7ydepdv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

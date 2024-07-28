@@ -1,9 +1,0 @@
-[ 2024-07-24 16:34:30,767 ] 28 dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 1
-[ 2024-07-24 16:34:32,213 ] 20 root - INFO - Starting data ingestion
-[ 2024-07-24 16:34:32,213 ] 26 root - INFO - Exporting data from mongodb to feature store
-[ 2024-07-24 16:34:32,213 ] 18 root - INFO - Retrieved MongoDB URL: mongodb+srv://kelkarork0308:jairamjiki@cluster0.7ydepdv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-[ 2024-07-24 16:37:16,670 ] 54 root - INFO - Performed train test split on the dataframe
-[ 2024-07-24 16:37:16,671 ] 56 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
-[ 2024-07-24 16:37:16,672 ] 64 root - INFO - Exporting train and test file path.
-[ 2024-07-24 16:37:21,921 ] 74 root - INFO - Exported train and test file path.
-[ 2024-07-24 16:37:21,987 ] 26 root - INFO - Data ingestion completed and artifact: DataIngestionArtifact(trained_file_path='artifact\\07_24_2024_16_34_32\\data_ingestion\\ingested\\train.csv', test_file_path='artifact\\07_24_2024_16_34_32\\data_ingestion\\ingested\\test.csv')

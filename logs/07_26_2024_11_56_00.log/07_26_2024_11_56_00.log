@@ -1,5 +1,0 @@
-[ 2024-07-26 11:56:00,691 ] 28 dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 1
-[ 2024-07-26 11:56:02,649 ] 27 root - INFO - Starting data ingestion
-[ 2024-07-26 11:56:02,670 ] 32 root - INFO - Exporting data from mongodb to feature store
-[ 2024-07-26 11:56:02,671 ] 18 root - INFO - Retrieved MongoDB URL: mongodb+srv://kelkarork0308:jairamjiki@ac-21kwvbq.mongodb.net/test?retryWrites=true&w=majority&ssl=true&ssl_cert_reqs=CERT_NONE
-[ 2024-07-26 11:56:04,797 ] 29 root - ERROR - Error initializing MongoDB client: The DNS query name does not exist: _mongodb._tcp.ac-21kwvbq.mongodb.net.

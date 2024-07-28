@@ -1,4 +1,0 @@
-[ 2024-07-24 16:31:59,433 ] 28 dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 1
-[ 2024-07-24 16:32:02,901 ] 20 root - INFO - Starting data ingestion
-[ 2024-07-24 16:32:02,901 ] 26 root - INFO - Exporting data from mongodb to feature store
-[ 2024-07-24 16:32:02,901 ] 18 root - INFO - Retrieved MongoDB URL: mongodb+srv://kelkarork0308:jairamjiki@cluster0.7ydepdv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
